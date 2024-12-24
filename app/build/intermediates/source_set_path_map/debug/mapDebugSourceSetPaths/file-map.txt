@@ -1,0 +1,36 @@
+com.sahelibeautyparlour.app-startup-runtime-1.1.1-0 C:\Users\Prajwal\.gradle\caches\8.9\transforms\084c1302f551638d58cb8d7d8faf8b12\transformed\startup-runtime-1.1.1\res
+com.sahelibeautyparlour.app-drawerlayout-1.1.1-1 C:\Users\Prajwal\.gradle\caches\8.9\transforms\0f02f8106c8b8b3c73eba154554283e2\transformed\drawerlayout-1.1.1\res
+com.sahelibeautyparlour.app-viewpager2-1.0.0-2 C:\Users\Prajwal\.gradle\caches\8.9\transforms\14ac767b912432754e5e6ab4f50472fc\transformed\viewpager2-1.0.0\res
+com.sahelibeautyparlour.app-lifecycle-viewmodel-2.6.2-3 C:\Users\Prajwal\.gradle\caches\8.9\transforms\23d2d7b85e45ca982426ac591f4d0535\transformed\lifecycle-viewmodel-2.6.2\res
+com.sahelibeautyparlour.app-glide-4.12.0-4 C:\Users\Prajwal\.gradle\caches\8.9\transforms\3c37ff710dea62b92f3a66ae85908dee\transformed\glide-4.12.0\res
+com.sahelibeautyparlour.app-appcompat-1.7.0-5 C:\Users\Prajwal\.gradle\caches\8.9\transforms\4150f277c2932a4cdc607cd6a485bc05\transformed\appcompat-1.7.0\res
+com.sahelibeautyparlour.app-emoji2-1.3.0-6 C:\Users\Prajwal\.gradle\caches\8.9\transforms\426e96d0f62ca8423ce1ab7181147065\transformed\emoji2-1.3.0\res
+com.sahelibeautyparlour.app-lifecycle-runtime-2.6.2-7 C:\Users\Prajwal\.gradle\caches\8.9\transforms\4b2381de440d0b31145ede509fb29b3e\transformed\lifecycle-runtime-2.6.2\res
+com.sahelibeautyparlour.app-annotation-experimental-1.4.1-8 C:\Users\Prajwal\.gradle\caches\8.9\transforms\4df7fcefcf5a418069095911739e45b9\transformed\annotation-experimental-1.4.1\res
+com.sahelibeautyparlour.app-profileinstaller-1.4.0-9 C:\Users\Prajwal\.gradle\caches\8.9\transforms\52db390aa90e90df90be52972ec4003e\transformed\profileinstaller-1.4.0\res
+com.sahelibeautyparlour.app-tracing-1.2.0-10 C:\Users\Prajwal\.gradle\caches\8.9\transforms\58c457d43f5ce52c46d986c1dba2b0e8\transformed\tracing-1.2.0\res
+com.sahelibeautyparlour.app-lifecycle-viewmodel-savedstate-2.6.2-11 C:\Users\Prajwal\.gradle\caches\8.9\transforms\58db2a72d218eea89bf2439613b2eb50\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.sahelibeautyparlour.app-savedstate-1.2.1-12 C:\Users\Prajwal\.gradle\caches\8.9\transforms\610efa6a8c6dae6bd47601014dc1b295\transformed\savedstate-1.2.1\res
+com.sahelibeautyparlour.app-appcompat-resources-1.7.0-13 C:\Users\Prajwal\.gradle\caches\8.9\transforms\672744de24af37a80574f9c797844a69\transformed\appcompat-resources-1.7.0\res
+com.sahelibeautyparlour.app-core-1.15.0-14 C:\Users\Prajwal\.gradle\caches\8.9\transforms\6e8946e16e9884f7f30d258c48ce3ece\transformed\core-1.15.0\res
+com.sahelibeautyparlour.app-cardview-1.0.0-15 C:\Users\Prajwal\.gradle\caches\8.9\transforms\75023d25f26f6b919e2877d3c9361e8b\transformed\cardview-1.0.0\res
+com.sahelibeautyparlour.app-material-1.12.0-16 C:\Users\Prajwal\.gradle\caches\8.9\transforms\761dcf8f86af2358f14aa411fe6969e6\transformed\material-1.12.0\res
+com.sahelibeautyparlour.app-transition-1.5.0-17 C:\Users\Prajwal\.gradle\caches\8.9\transforms\79be1b7f48e3158d0df0c012f21d270d\transformed\transition-1.5.0\res
+com.sahelibeautyparlour.app-lifecycle-process-2.6.2-18 C:\Users\Prajwal\.gradle\caches\8.9\transforms\7b6f097c60a904c2f02167a44e7a1056\transformed\lifecycle-process-2.6.2\res
+com.sahelibeautyparlour.app-coordinatorlayout-1.1.0-19 C:\Users\Prajwal\.gradle\caches\8.9\transforms\7be2f2ffc782a4ea4db45aae8a5ac83d\transformed\coordinatorlayout-1.1.0\res
+com.sahelibeautyparlour.app-recyclerview-1.1.0-20 C:\Users\Prajwal\.gradle\caches\8.9\transforms\7cafa844bb5c9ae960265bf8b91d47e4\transformed\recyclerview-1.1.0\res
+com.sahelibeautyparlour.app-lifecycle-livedata-core-2.6.2-21 C:\Users\Prajwal\.gradle\caches\8.9\transforms\7e4d96d56cdbd0204ad15f98d85fb8df\transformed\lifecycle-livedata-core-2.6.2\res
+com.sahelibeautyparlour.app-emoji2-views-helper-1.3.0-22 C:\Users\Prajwal\.gradle\caches\8.9\transforms\98549c93e42fafcff5e98d4f48859830\transformed\emoji2-views-helper-1.3.0\res
+com.sahelibeautyparlour.app-core-runtime-2.2.0-23 C:\Users\Prajwal\.gradle\caches\8.9\transforms\a6120f54346b8333bbd99d1f66e75db8\transformed\core-runtime-2.2.0\res
+com.sahelibeautyparlour.app-lifecycle-livedata-2.6.2-24 C:\Users\Prajwal\.gradle\caches\8.9\transforms\be04e8559cb4f3e25f0bb94a0c36830e\transformed\lifecycle-livedata-2.6.2\res
+com.sahelibeautyparlour.app-activity-1.9.3-25 C:\Users\Prajwal\.gradle\caches\8.9\transforms\c9da618b839b3fff8db0e53be6ce374a\transformed\activity-1.9.3\res
+com.sahelibeautyparlour.app-constraintlayout-2.2.0-26 C:\Users\Prajwal\.gradle\caches\8.9\transforms\e479e2da2a954a267791716111440b4c\transformed\constraintlayout-2.2.0\res
+com.sahelibeautyparlour.app-core-ktx-1.15.0-27 C:\Users\Prajwal\.gradle\caches\8.9\transforms\ee0891ca83cf77aff8de90eccdc06dc3\transformed\core-ktx-1.15.0\res
+com.sahelibeautyparlour.app-fragment-1.5.4-28 C:\Users\Prajwal\.gradle\caches\8.9\transforms\ee322fefc59b9f4a40e57a8f3d3cc20f\transformed\fragment-1.5.4\res
+com.sahelibeautyparlour.app-pngs-29 D:\Androd real project\Saheli Beauty Parlour\app\build\generated\res\pngs\debug
+com.sahelibeautyparlour.app-resValues-30 D:\Androd real project\Saheli Beauty Parlour\app\build\generated\res\resValues\debug
+com.sahelibeautyparlour.app-packageDebugResources-31 D:\Androd real project\Saheli Beauty Parlour\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.sahelibeautyparlour.app-packageDebugResources-32 D:\Androd real project\Saheli Beauty Parlour\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.sahelibeautyparlour.app-debug-33 D:\Androd real project\Saheli Beauty Parlour\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.sahelibeautyparlour.app-debug-34 D:\Androd real project\Saheli Beauty Parlour\app\src\debug\res
+com.sahelibeautyparlour.app-main-35 D:\Androd real project\Saheli Beauty Parlour\app\src\main\res

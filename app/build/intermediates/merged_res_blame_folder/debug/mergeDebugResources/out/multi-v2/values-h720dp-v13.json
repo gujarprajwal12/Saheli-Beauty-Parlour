@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sahelibeautyparlour.app-mergeDebugResources-31:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Prajwal\\.gradle\\caches\\8.9\\transforms\\4150f277c2932a4cdc607cd6a485bc05\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
