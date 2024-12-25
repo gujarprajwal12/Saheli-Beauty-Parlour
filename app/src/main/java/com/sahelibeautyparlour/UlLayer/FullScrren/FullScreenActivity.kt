@@ -9,6 +9,7 @@ import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.sahelibeautyparlour.R
+import com.sahelibeautyparlour.databinding.ActivityFullScreenBinding
 
 class FullScreenActivity : AppCompatActivity() {
 
@@ -26,12 +27,14 @@ class FullScreenActivity : AppCompatActivity() {
     private val minScaleFactor = 0.5f
 
     private var isZooming = false
+    private lateinit var binding: ActivityFullScreenBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_full_screen)
+        binding = ActivityFullScreenBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        imageView = findViewById(R.id.fullScreenImageView)
+        imageView = binding.fullScreenImageView
 
         // Get the image URL passed from the previous activity
         val imageUrl = intent.getStringExtra("image_url")
@@ -40,6 +43,7 @@ class FullScreenActivity : AppCompatActivity() {
         Glide.with(this)
             .load(imageUrl)
             .into(imageView)
+
 
         // Initialize ScaleGestureDetector for pinch-to-zoom gestures
         scaleDetector = ScaleGestureDetector(this, object : ScaleGestureDetector.SimpleOnScaleGestureListener() {

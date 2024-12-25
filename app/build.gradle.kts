@@ -33,6 +33,10 @@ android {
     kotlinOptions {
         jvmTarget = "11"
     }
+
+    buildFeatures {
+        viewBinding  = true
+    }
 }
 
 dependencies {
@@ -47,10 +51,21 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     implementation (libs.glide)
+    implementation (libs.coil.kt.coil)
+
     annotationProcessor (libs.compiler)
 
     implementation (libs.retrofit)
     implementation (libs.converter.gson)
+    implementation (libs.okhttp)
+    implementation (libs.logging.interceptor)
+
+    implementation (libs.timber)
+    implementation (libs.firebase.crashlytics)
+    implementation (libs.firebase.analytics)
+
+
+
 
 
 }

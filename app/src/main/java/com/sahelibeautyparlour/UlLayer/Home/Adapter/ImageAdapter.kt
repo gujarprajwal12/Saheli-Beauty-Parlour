@@ -13,7 +13,7 @@ import com.sahelibeautyparlour.UlLayer.FullScrren.FullScreenActivity
 
 
 
-class ImageAdapter(private val images: List<DriveFile>) : RecyclerView.Adapter<ImageAdapter.ImageViewHolder>() {
+class ImageAdapter(private val images: MutableList<DriveFile>) : RecyclerView.Adapter<ImageAdapter.ImageViewHolder>() {
 
     class ImageViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         val imageView: ImageView = itemView.findViewById(R.id.imageView)
@@ -28,15 +28,31 @@ class ImageAdapter(private val images: List<DriveFile>) : RecyclerView.Adapter<I
         val image = images[position]
         Glide.with(holder.itemView.context)
             .load(image.webContentLink)
+            .error(R.drawable.ic_launcher_background)
+            .timeout(30000)
             .into(holder.imageView)
 
-        // Set an onClickListener to pass the image URL to the new activity
         holder.itemView.setOnClickListener {
             val intent = Intent(holder.itemView.context, FullScreenActivity::class.java)
-            intent.putExtra("image_url", image.webContentLink) // Pass the image URL
+            intent.putExtra("image_url", image.webContentLink)
             holder.itemView.context.startActivity(intent)
         }
     }
 
     override fun getItemCount(): Int = images.size
+
+    // Update existing data
+    fun updateData(newImages: List<DriveFile>) {
+        images.clear()
+        images.addAll(newImages)
+        notifyDataSetChanged()
+    }
+
+    // Add more data to the existing list
+    fun addMoreData(newImages: List<DriveFile>) {
+        val startPosition = images.size
+        images.addAll(newImages)
+        notifyItemRangeInserted(startPosition, newImages.size)
+    }
 }
+
